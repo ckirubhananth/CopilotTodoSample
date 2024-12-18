@@ -37,8 +37,10 @@ Open your browser and navigate to http://localhost:3000.
 This setup provides a complete example of a todo application with a Go backend using Fiber and a React frontend using Vite.
 
 # The application in the browser
-![image](https://github.com/user-attachments/assets/431d8408-fde6-4448-90d9-2d51776a1716)
+![Screenshot 2024-12-18 141428](https://github.com/user-attachments/assets/9db2c942-d4d1-460e-aa5f-3656a88b23e5)
+
 
 # The API response from the Postman
-![image](https://github.com/user-attachments/assets/c111d535-a036-4279-a046-e13c6a68d984)
+![Screenshot 2024-12-18 141638](https://github.com/user-attachments/assets/2f5eb947-1306-4461-bdc5-9eb2650e556d)
+
 
