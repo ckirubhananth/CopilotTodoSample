@@ -1,4 +1,6 @@
 # KirubhaAITest
+  This project was created with the assistance of Copilot. The majority of the code, for both the frontend and backend, was written using Copilot.
+  
 # Copilot Instructions
 
 
